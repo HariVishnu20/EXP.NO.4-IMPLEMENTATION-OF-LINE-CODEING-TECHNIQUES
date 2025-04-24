@@ -41,7 +41,7 @@ observe Unipolar out at post OUT.
 ![image](https://github.com/user-attachments/assets/92876b97-59d5-438c-bf3d-1a5e36ce526d)
 
 ## OUTPUT GRAPHS
-![WhatsApp Image 2025-04-09 at 10 55 18_7d0a30dc](https://github.com/user-attachments/assets/04a67e94-4e23-4cf8-acc0-130671cffd37)
+![line coding](https://github.com/user-attachments/assets/ca100e74-0261-45bd-b556-f0077600766f)
 
 ## RESULT 
 Implementation of Line Codeing Techniques was successfully verified.
